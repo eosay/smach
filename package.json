@@ -1,0 +1,11 @@
+{
+    "name": "com.eosay.smach",
+    "version": "1.0.0",
+    "displayName": "Smach",
+    "description": "A simple state machine for unity",
+    "unity": "2020.3",
+    "author": {
+      "name": "eosay"
+    }
+  }
+  
